@@ -19,48 +19,90 @@ Directory tree
 
 .
 ├── README.md
+
 ├── images
+
 │   ├── ... ...
+
 ├── CMakeLists.txt
+
 ├── add_markers
+
 │   ├── launch
+
 │   │   └── home_service_rviz_config.launch
+
 │   └── src
+
 │       ├── add_markers.cpp
+
 │       └── add_markers_test.cpp
+
 │   ├──  ... ...
 ├── config
+
 │   └── marker_config.yaml
+
 ├── map
+
 │   ├── building
+
 │   │   ├── ... ...
+
 │   ├── home_service.world
+
 │   ├── home_service_map.pgm
+
 │   ├── home_service_map.yaml
+
 ├── pick_objects
+
 │   └── src
+
 │       ├── pick_objects.cpp
+
 │       └── pick_objects_test.cpp
+
 │   ├──  ... ...
+
 ├── rvizConfig
+
 │   └── home_service.rviz
+
 ├── scripts
+
 │   ├── add_marker.sh
+
 │   ├── home_service.sh
+
 │   ├── pick_objects.sh
+
 │   ├── test_navigation.sh
+
 │   └── test_slam.sh
+
 ├── slam_gmapping
+
 │   ├── gmapping
+
 │   |── ... ...
+
 ├── turtlebot
+
 │   |── turtlebot_teleop
+
 │   |── ... ...
+
 ├── turtlebot_interactions
+
 │   |── turtlebot_rviz_launchers
+
 │   |── ... ...
+
 |── turtlebot_simulator
+
 │   ├── turtlebot_gazebo
+
 │   |── ... ...
 
 
