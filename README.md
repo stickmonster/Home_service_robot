@@ -8,11 +8,17 @@ All of these programs were to be tied together by a series of Shell Scripts, whi
 Packages included in project:
 
 Gazebo
+
 Ubuntu Linux Shell
+
 ROS kinetic Github sourced packages:
+
 gmapping
+
 turtlebot_teleop
+
 turtlebot_rviz_launchers
+
 turtlebot_gazebo
 
 Directory tree
@@ -118,7 +124,7 @@ git clone https://github.com/turtlebot/turtlebot.git
 git clone https://github.com/turtlebot/turtlebot_interactions.git  
 git clone https://github.com/turtlebot/turtlebot_simulator.git
 
-The Gazebo environment was uloaded and SLAM mapped, after which the resulting map was tested using AMCL to check that the turtlebot robot could navigate it.
+The Gazebo environment was uploaded and SLAM mapped, after which the resulting map was tested using AMCL to check that the turtlebot robot could navigate it.
 
 The C++ files were added (pick_objects.cpp and add_markers.cpp) and these all were tied together with  an installation initiated through shell scripts.
 
