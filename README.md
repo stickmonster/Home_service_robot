@@ -8,7 +8,7 @@ The files for this project are included above but not in the tree order demanded
 
 
 
-In this project, the aim was to build through a series of steps in which  a robot SLAM mapped an environment designed and realised in Gazebo, Ignition, then used Adaptive Monte-Carlo Localisation to follow manually placed 2d goals, before finally operating indepnedently by following C++ programs. These programs would stipulate how the turtlebot will pick objects from the SLAM mapped Gazebo environment, and then add and delete markers to represent the process of the aforementioned automation.
+In this project, the aim was to build through a series of steps in which  a robot SLAM mapped an environment designed and realised in Gazebo, Ignition, then used Adaptive Monte-Carlo Localisation to follow manually placed 2d goals, before finally operating independently by following C++ programs. These programs would stipulate how the turtlebot will pick objects from the SLAM mapped Gazebo environment, and then add and delete markers to represent the process of the aforementioned automation.
 All of these programs were to be tied together by a series of Shell Scripts, which would initiate the automation from a Linux shell.
 
 ![](https://github.com/stickmonster/Home_service_robot/blob/main/picked%20up%20home%20service.JPG)
