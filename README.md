@@ -2,8 +2,15 @@
 Udacity Robotics nano-degree final project
 
 
+![](https://github.com/stickmonster/Home_service_robot/blob/main/dropped%20off.JPG)
+
+
+
 In this project, the aim was to build through a series of steps in which  a robot SLAM mapped an environment designed and realised in Gazebo, Ignition, then used Adaptive Monte-Carlo Localisation to follow manually placed 2d goals, before finally operating indepnedently by following C++ programs. These programs would stipulate how the turtlebot will pick objects from the SLAM mapped Gazebo environment, and then add and delete markers to represent the process of the aforementioned automation.
 All of these programs were to be tied together by a series of Shell Scripts, which would initiate the automation from a Linux shell.
+
+![](https://github.com/stickmonster/Home_service_robot/blob/main/picked%20up%20home%20service.JPG)
+
 
 Packages included in project:
 
@@ -128,3 +135,10 @@ The Gazebo environment was uploaded and SLAM mapped, after which the resulting m
 
 The C++ files were added (pick_objects.cpp and add_markers.cpp) and these all were tied together with  an installation initiated through shell scripts.
 
+![](https://github.com/stickmonster/Home_service_robot/blob/main/success%20home%20service.JPG)
+
+Success!
+
+Thanks for reviewing this project,
+
+Toby
