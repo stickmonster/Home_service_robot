@@ -14,6 +14,8 @@ All of these programs were to be tied together by a series of Shell Scripts, whi
 ![](https://github.com/stickmonster/Home_service_robot/blob/main/picked%20up%20home%20service.JPG)
 
 
+Please note - the gazebo structure used for SLAM mapping was the turtlebot corridor provided in the dependencies below.
+
 Packages included in project:
 
 Gazebo
